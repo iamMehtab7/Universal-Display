@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnInfinix"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Infinix Tecno Itel" />
+
+    <Button
+        android:id="@+id/btnOppo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Oppo Realme OnePlus" />
+
+    <Button
+        android:id="@+id/btnRedmi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Redmi" />
+
+    <Button
+        android:id="@+id/btnMoto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Moto" />
+
+    <Button
+        android:id="@+id/btnVivo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vivo" />
+
+    <Button
+        android:id="@+id/btnSamsung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Samsung" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thanks For Using Our Products"
+        android:textStyle="bold"
+        android:layout_marginTop="300dp"
+        android:layout_marginStart="100dp"
+        />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="130dp"
+        android:text="Choudhry Mobile Zone"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Developed By:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:text="BadGuys Team"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Whatsapp: 03176583938"
+        android:layout_marginStart="100dp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
